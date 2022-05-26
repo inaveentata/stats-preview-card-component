@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution url](https://github.com/inaveentata/stats-preview-card-component)
+- Live Site URL: [Live site url](https://stats-preview-card-26-may-2022.netlify.app/)
 
 ## My process
 
