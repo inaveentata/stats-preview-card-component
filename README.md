@@ -22,7 +22,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+Check out [here](./Screenshot%202022-05-26%20at%2018-51-50%20Frontend%20Mentor%20Stats%20preview%20card%20component.png) to see the screenshot of the project.
 
 
 ### Links
